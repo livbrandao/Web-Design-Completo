@@ -11,6 +11,5 @@ Essas instruções permitirão que você obtenha a funcionalidade completa do pr
 
 - HTML, CSS, JS, PHP
 
-✒️ AutoR
-
+✒️ Autor
 - Lívia Toledo Brandão
